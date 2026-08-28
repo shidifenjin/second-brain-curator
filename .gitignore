@@ -1,0 +1,9 @@
+.DS_Store
+local-config.md
+**/local-config.md
+state.json
+*-state.json
+.env
+.env.*
+*.secret
+*.token
