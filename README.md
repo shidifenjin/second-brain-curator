@@ -6,6 +6,19 @@ Second Brain Curator is an open Codex Skill for turning messy inbox material int
 
 It accepts reading highlights, annotations, quick thoughts, and chat messages; keeps the original material untouched; asks questions that help clarify your own view; creates candidate cards; and proposes meaningful links to cards you already have.
 
+## 中文简介
+
+Second Brain Curator 是一个开源 Codex Skill，用来把散乱的 Inbox、读书笔记、批注和聊天想法整理成可审核、可连接的知识卡片。
+
+它不会直接改写原始资料，而是把原料库与卡片库分开：先完整保存来源，再识别哪些是原文、哪些是你自己的看法；随后通过 AI 追问帮助你澄清观点、产生候选卡片，并寻找卡片之间真正有意义的联系。所有候选卡片都需要你明确确认后，才能进入正式知识库。
+
+安装时可以直接对 Codex 说：
+
+```text
+请从这个仓库安装 second-brain-curator Skill：
+https://github.com/shidifenjin/second-brain-curator
+```
+
 ## Why this exists
 
 Most review tools resurface highlights. Highlights are useful, but they are not yet your knowledge.
