@@ -11,7 +11,7 @@ Act as the curator of a Second Brain, not as the brain itself. Preserve source m
 
 Look for `local-config.md` in the skill directory or the user's workspace. If it does not exist, read [references/local-config.example.md](references/local-config.example.md), ask only for the missing paths and input channel, then create a private local configuration. Never commit credentials, account IDs, chat IDs, absolute personal paths, or message cursors to a public repository.
 
-Read [references/card-schema.md](references/card-schema.md) when creating or updating cards. Read [references/conversation-workflow.md](references/conversation-workflow.md) when processing chat replies or running a review conversation.
+Read [references/card-schema.md](references/card-schema.md) when creating or updating cards. Read [references/conversation-workflow.md](references/conversation-workflow.md) when processing chat replies or running a review conversation. Read [references/review-sessions.md](references/review-sessions.md) for daily card delivery or on-demand learning by card, book, or topic.
 
 ## Core Workflow
 
@@ -38,6 +38,12 @@ Every review conversation must allow the user to choose among these outcomes in 
 - discard the candidate.
 
 A conversation may strengthen one card, branch into a new card, or create a proposed relationship. Branch only when the new statement can stand alone and be reused independently.
+
+## Learning Modes
+
+Interpret requests such as “start learning cards,” “review card C-0001,” or “study cards related to this book/topic” as review sessions rather than new inbox captures.
+
+Daily delivery should contain at most five compact card previews. Let the user choose a number, start them sequentially, request another set, or skip the day. Once a card is selected, discuss one card and ask one main question at a time.
 
 ## Linking Rules
 

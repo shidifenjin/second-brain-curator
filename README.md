@@ -49,6 +49,8 @@ The raw archive and the card vault remain separate. The AI may add new captures 
 - Proposed semantic links with explicit relationship types and reasons
 - Conversation exits such as continue, update, branch, link, stop, or discard
 - Safe cursor handling for scheduled inbox processing
+- Daily delivery of up to five review cards
+- On-demand learning by card ID, book title, or topic
 - Works with Obsidian folders and can be adapted to Feishu/Lark, Slack, email, or another input channel
 
 ## Install
